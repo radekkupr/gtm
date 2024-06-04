@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "UDP - User Data | M4W",
+  "displayName": "UDP - User Data Properties | M4W",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -190,6 +190,7 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 // ********* Radek Kupr ************
 // ********* marketing4web *********    
 // ********* info@mairketing4web ***    
+// ********* 2024-04-21 ************
 // *********************************    
 const log = require('logToConsole');
 const createQueue = require('createQueue');
