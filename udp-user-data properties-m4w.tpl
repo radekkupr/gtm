@@ -5,7 +5,6 @@ Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
-
 ___INFO___
 
 {
@@ -14,6 +13,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "UDP - User Data Properties | M4W",
+  "categories": ["ANALYTICS", "MARKETING","PERSONALIZACE"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
